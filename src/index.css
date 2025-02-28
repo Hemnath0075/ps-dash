@@ -1,0 +1,38 @@
+#map{
+  width: 95%;
+  height: 75%;
+  margin-top: 10%;
+}
+
+.leaflet-right{
+  display: none;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  margin-left: 2%;
+}
+
+#leaflet-tooltip-99{
+  background-color: black !important;
+}
+
+.leaflet-tooltip{
+  background-color: black !important;
+}
+
+.react-card-flip{
+  width: 100% !important;
+  height: 80% !important;
+}
+
+
+.css-4t3x6l-MuiPaper-root-MuiDrawer-paper{
+  background-color: black !important;
+}
+
+.css-10hburv-MuiTypography-root{
+  font-size: 2.5vmin !important;
+}
