@@ -97,7 +97,7 @@ function Comparison() {
     setIsChartLoading(true);
   };
 
-  // const [chartData, setChartData] = useState();
+  const [chartData, setChartData] = useState();
   const mapRef = useRef();
   const [finalMinMax, setFinalMinMax] = useState();
   const markerClicked = (device) => {
